@@ -236,10 +236,27 @@ motto       : "Great engineers don't just use technology.
         <br/>
         <img src="https://img.shields.io/badge/Status-In%20Progress-F59E0B?style=for-the-badge" />
         <br/><br/>
-        <sub>Network IDS trained on the NSL-KDD dataset — Random Forest · SVM · anomaly detection. Applied cybersecurity research.</sub>
+        <sub>IDS entraîné sur le dataset NSL-KDD — Random Forest · SVM · anomaly detection. Recherche en cybersécurité appliquée.</sub>
         <br/><br/>
         <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">📡 Déploiement VoIP MX-ONE</h3>
+      <div align="center">
+        <a href="https://github.com/BinaryMaoGenius/voip-mxone-lab">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BinaryMaoGenius&repo=voip-mxone-lab&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED" />
+        </a>
+        <br/>
+        <sub>Déploiement complet IPBX Mitel MX-ONE sur VMware — extensions SIP, SIP Trunk, dépannage VoIP. Rapport technique + vidéo démo 10 min.</sub>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Mitel_MX--ONE-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+        <img src="https://img.shields.io/badge/SIP-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
       </div>
     </td>
   </tr>
