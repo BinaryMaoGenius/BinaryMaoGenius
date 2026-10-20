@@ -18,7 +18,7 @@
 <td width="50%" valign="top">
 
 ### 🎙️ Voix bambara
-**[Queue Buddy](https://github.com/BinaryMaoGenius/queue-buddy)** · `MVP en cours`
+**[Queue Buddy](https://github.com/BinaryMaoGenius/queue-buddy)** · `En Pause`
 Gestion de files d'attente par la voix en bambara : tickets numériques et notifications. *Flutter · Dart · Python*
 
 </td>
