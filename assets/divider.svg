@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="20" viewBox="0 0 1200 20" role="presentation"><defs><pattern id="d" width="30" height="20" patternUnits="userSpaceOnUse">
+<line x1="0" y1="2" x2="30" y2="2" stroke="#C9953A" stroke-width="1.5"/><line x1="0" y1="18" x2="30" y2="18" stroke="#C9953A" stroke-width="1.5"/>
+<polygon points="15,4 24,10 15,16 6,10" fill="none" stroke="#C9953A" stroke-width="1.5"/><polygon points="15,7.5 19,10 15,12.5 11,10" fill="#C2553A"/>
+<circle cx="2" cy="10" r="1.6" fill="#4A5D9A"/><circle cx="28" cy="10" r="1.6" fill="#4A5D9A"/></pattern></defs><rect width="1200" height="20" fill="url(#d)"/></svg>

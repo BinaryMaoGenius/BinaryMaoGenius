@@ -1,56 +1,80 @@
-# Emmanuel Elisé Koné
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img src="assets/banner-light.svg" alt="Emmanuel Elisé Koné — BinaryMaoGenius — La tech en clair" width="100%">
+  </picture>
+</div>
 
-**Systems, Networks & Telecommunications student @ IUE · Applied AI · Cybersecurity**
+**🇫🇷** Étudiant en Réseaux, Systèmes et Sécurité à l'IUE (Mali). J'apprends en construisant : tester, casser *(en labo, avec autorisation)*, reconstruire, et documenter, y compris ce qui ne marche pas du premier coup.
 
-I'm a computing student interested in how software, AI, and infrastructure can solve practical problems. I learn by building, testing, debugging, and documenting real projects, with a particular interest in African language technologies and solutions designed for local needs.
+**🇬🇧** Systems, Networks & Security student at IUE (Mali). I learn by building, testing, breaking things in authorised labs, rebuilding, and writing down what I learn.
 
-> **Build. Test. Break (in the lab). Rebuild.**  
-> *Mali to the world 🇲🇱*
+<img src="assets/divider.svg" width="100%" alt="">
 
-## What I'm exploring
+## 🧪 Le labo — four rooms
 
-- **AI & African languages** — speech recognition, NLP, and practical tools for languages such as Bambara.
-- **Systems & networks** — Linux, network fundamentals, routing and switching, virtualisation, and VoIP.
-- **Software engineering** — web applications, APIs, and mobile prototypes.
-- **Cybersecurity** — CTF challenges, network analysis, and defensive experiments in authorised lab environments.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Selected projects
+### 🎙️ Voix bambara
+**[Queue Buddy](https://github.com/BinaryMaoGenius/queue-buddy)** · `MVP en cours`
+Gestion de files d'attente par la voix en bambara : tickets numériques et notifications. *Flutter · Dart · Python*
 
-### [ARGUS Core](https://github.com/BinaryMaoGenius/argus-core)
-An experimental, local-first and model-agnostic AI assistant architecture. Exploring memory, model routing, planning, and verification on resource-constrained machines. **MVP in progress.**
+</td>
+<td width="50%" valign="top">
 
-### [Queue Buddy](https://github.com/BinaryMaoGenius/queue-buddy)
-A Flutter queue-management prototype exploring Bambara voice interaction, digital tickets, and notifications for service environments.
+### 🧠 IA locale
+**[COS — Cognitive Operating System](https://github.com/BinaryMaoGenius/argus-core)** · `MVP en cours`
+Un noyau cognitif local-first pour machines sans GPU : mémoire, planification, vérification. *Python · Ollama*
 
-### [VoIP MX-ONE Lab](https://github.com/BinaryMaoGenius/voip-mxone-lab)
-An academic infrastructure lab documenting the deployment of a Mitel MX-ONE IPBX in a virtualised SUSE environment, SIP extensions, trunk configuration, and troubleshooting.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### [Digital Day CTF](https://github.com/BinaryMaoGenius/digital-day-ctf)
-A Capture The Flag platform project supporting hands-on cybersecurity learning around Digital Day Mali.
+### 🛡️ Cybersécurité
+**[Digital Day CTF](https://github.com/BinaryMaoGenius/digital-day-ctf)** · `Déployé`
+Plateforme CTF construite pour Digital Day (Club IT Mali) : des centaines de participants, des défis réels. *Python · CTFd*
 
-### [Bamatech](https://github.com/BinaryMaoGenius/Bamatech)
-A prototype digital platform connecting ICT actors, resources, and services in Mali, built around a Next.js frontend and Express API.
+</td>
+<td width="50%" valign="top">
 
-## Tools and technologies
+### 📡 Réseaux & VoIP
+**[VoIP MX-ONE Lab](https://github.com/BinaryMaoGenius/voip-mxone-lab)** · `Terminé`
+Déploiement d'un IPBX Mitel MX-ONE sous SUSE virtualisé : extensions SIP, trunk, dépannage documenté. *VMware · SIP · Wireshark*
 
-- **Languages:** Python, JavaScript/TypeScript, Dart
-- **Web & APIs:** Django, FastAPI, Next.js, Express
-- **AI & data:** Hugging Face, speech/NLP workflows, NVIDIA NeMo, scikit-learn
-- **Systems & networks:** Linux, Cisco networking labs, Wireshark, VMware, SIP/VoIP
-- **Development tools:** Git, GitHub, Docker
+</td>
+</tr>
+</table>
 
-These are technologies I use or explore across projects; the exact stack varies by project.
+**Aussi :** [Bamatech](https://github.com/BinaryMaoGenius/Bamatech) (plateforme pour l'écosystème tech malien) · [Griot Numérique](https://github.com/BinaryMaoGenius/Griot_numerique) (préserver la culture orale) · [Virtual Mouse](https://github.com/BinaryMaoGenius/virtual-mouse-gestures) (souris pilotée par les gestes de la main)
 
-## How I like to build
+<img src="assets/divider.svg" width="100%" alt="">
 
-- Understand the problem before choosing the technology.
-- Prefer solutions that can be tested, explained, and maintained.
-- Explore open-source and local-first approaches when they make sense.
-- Document what I learn, including the parts that don't work the first time.
+## 🧰 Stack
 
-## Connect
+![Python](https://img.shields.io/badge/Python-0E0E0C?style=flat-square&logo=python&logoColor=D9A441)
+![TypeScript](https://img.shields.io/badge/TypeScript-0E0E0C?style=flat-square&logo=typescript&logoColor=D9A441)
+![Dart](https://img.shields.io/badge/Dart-0E0E0C?style=flat-square&logo=dart&logoColor=D9A441)
+![Django](https://img.shields.io/badge/Django-0E0E0C?style=flat-square&logo=django&logoColor=D9A441)
+![Next.js](https://img.shields.io/badge/Next.js-0E0E0C?style=flat-square&logo=nextdotjs&logoColor=D9A441)
+![Docker](https://img.shields.io/badge/Docker-0E0E0C?style=flat-square&logo=docker&logoColor=D9A441)
+![Linux](https://img.shields.io/badge/Linux-0E0E0C?style=flat-square&logo=linux&logoColor=D9A441)
+![Wireshark](https://img.shields.io/badge/Wireshark-0E0E0C?style=flat-square&logo=wireshark&logoColor=D9A441)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-0E0E0C?style=flat-square&logo=huggingface&logoColor=D9A441)
 
-- [LinkedIn](https://www.linkedin.com/in/emmanuelekone)
-- [Hugging Face](https://huggingface.co/binaryMao)
+## 🔧 Comment je construis
 
-I'm especially interested in practical AI, African language technology, systems and networks, and open-source projects with real-world impact.
+1. **Comprendre** le problème avant de choisir la techno.
+2. **Tester** et expliquer : une solution que je ne sais pas expliquer n'est pas finie.
+3. **Local-first** et open source quand c'est pertinent.
+4. **Documenter** aussi les échecs. *La tech en clair.*
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## 📬 Connect
+
+[LinkedIn](https://www.linkedin.com/in/emmanuelekone) · [Hugging Face](https://huggingface.co/binaryMao)
+
+> *Build. Test. Break (in the lab). Rebuild.* · *Mali to the world* 🇲🇱
